@@ -1,0 +1,72 @@
+body{
+    padding: 8em;
+    
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+   text-align: end;
+   /* padding-right: 1em; */
+   letter-spacing: 0.1em;
+   font-size: 41px;
+   padding-bottom: 1em;
+}
+
+h3{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+hr{
+    border: .1em solid black;
+    border-radius: 1em;
+}
+
+p{
+    font-size: 1.3em;
+  
+}
+
+
+/* biodata section */
+
+.address{
+    padding-left: 8.6em;
+}
+.birth{
+    padding-left: 9.9em;
+}
+.mail{
+    padding-left: 9.8em;
+}
+.phone{
+    padding-left: 9em;
+}
+
+/* education */
+#be{
+margin-bottom: 0;
+}
+#anand{
+    margin-top: 0;
+}
+#gpa{
+    padding-left: 2em;
+}
+
+/* years */
+#date{
+    float: right;
+    background-color: black;
+    color: white;
+}
+span{
+    padding-left: 3em;
+}
+
+#projectdescription{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
